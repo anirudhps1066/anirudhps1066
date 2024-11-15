@@ -33,6 +33,12 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 </p>
+### 📊 Leetcode Stats
+<div align="center">
+  <img src=![LeetCode Stats](https://leetcard.jacoblin.cool/3j9YPPYNnR?theme=dark&font=ABeeZee&ext=heatmap)style="width: 500px; height: 300px;" />
+</div>
+
+<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
