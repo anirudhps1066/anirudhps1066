@@ -38,7 +38,10 @@
 ### 📊 Github Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
  
-https://github-readme-activity-graph.vercel.app/graph?username=anirudhps1066&bg_color=121112&color=ffffff&line=10f449&point=a0d9b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph
+
+[![Siddharth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anirudhps1066&bg_color=121112&color=ffffff&line=10f449&point=a0d9b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
 
 
 
