@@ -40,8 +40,7 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
 </div>
-## GitHub Activity
-![](https://github-readme-activity-graph.cyclic.app/graph?username=anirudhps1066&theme=cobalt)
+
 
 ## GitHub Profile Card
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anirudhps1066&theme=github_dark)
