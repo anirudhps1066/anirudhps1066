@@ -36,7 +36,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 
 </p>
-## 📊 Leetcode Stats
+📊 Leetcode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
 </div>
