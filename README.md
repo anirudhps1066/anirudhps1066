@@ -25,17 +25,21 @@
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+  <img width="48" height="48" src="![image](https://github.com/user-attachments/assets/bd8ad0ae-7052-49e9-9ade-61ba28cebe49)
+" alt="tailwind_css"/>
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/javascript.png" alt="javascript"/>
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/ms-excel.png" alt="ms-excel"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/power-bi.png" alt="power-bi"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 
 </p>
-#### 📊 Leetcode Stats
+📊 Leetcode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
 </div>
-### 📊 Github Stats
+📊 Github Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
  
 
