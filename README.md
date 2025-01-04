@@ -36,7 +36,7 @@
   <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
 </div>
 
-<img src=""C:\Users\91974\Documents\MERN\HTML AND CSS\Project\Barber\cutting 1.jpg"" width="1000" height="2" />
+
 
 
 <img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
