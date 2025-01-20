@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anirudh...&center=true&size=30">
   </a>
 </h1>
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anirudhps1066&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhps1066" /> 
 </p>
