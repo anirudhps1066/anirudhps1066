@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Anirudh...&center=true&size=30">
   </a>
 </h1>
-<img align="right" width="370" height="290" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="370" height="290" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc0MzI2ODgsIm5iZiI6MTczNzQzMjM4OCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIxVDA0MDYyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZmRhMjNkOTY2OTFiOTY0NGEzYTk2NmU1NTg4OTVkNGIzYTk1NTZlYTEwZTdhYTE2YWQ3ZDVkYmQ2MThhM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.quaAsvRZI8QRSOfjyOgFgTkrLnwoOi4CJ-B1Em91-cA">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anirudhps1066&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhps1066" /> 
 </p>
