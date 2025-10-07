@@ -36,10 +36,19 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 
 </p>
+
+
 ### 📊 Leetcode Stats
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/anirudhpss?theme=dark&font=Vesper%20Libre&ext=contest" style="width: 500px; height: 300px;" />
 </div>
+
+### Hacktoberfest(24) Badges
+
+[![An image of @anirudhps1066's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anirudhps1066)](https://holopin.io/@anirudhps1066)
+
+<img src="C:/Users/SIDDHARTH/Downloads/custom_line.png" width="1000" height="2" />
+
 
 
 ## GitHub Profile Card
